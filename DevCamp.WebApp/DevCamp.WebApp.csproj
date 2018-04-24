@@ -168,8 +168,7 @@
     <Content Include="Views\Incident\Create.cshtml" />
     <Content Include="Views\Incident\Details.cshtml" />
     <Content Include="Views\Incident\Edit.cshtml" />
-    <None Include="Properties\PublishProfiles\myUbuntuMachine - Web Deploy.pubxml" />
-    <None Include="Properties\PublishProfiles\zekeapp2 - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\DevCampWebApp20180424074234 - Web Deploy.pubxml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
